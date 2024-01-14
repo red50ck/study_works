@@ -3,7 +3,7 @@ Assignments from the university. / Лабораторные работы из В
 
 EN: Content:  
 Algorithms and data structures.  
-• LW1 - laboratory assignment №1. Sorts. Determination of algorithm complexity. 
+• [LW1](https://github.com/red50ck/study_works/blob/a48569e60221e1a19ccb41edf5ff794745976346/Algorithms%20and%20data%20structures/LW1/task1.md) - laboratory assignment №1. Sorts. Determination of algorithm complexity. 
 Task: write a program for sorting and analyzing text data.  
 • LW2 - laboratory assignment №2. Tree height.  
 Task: write a program that builds a binary search tree and calculates its height.
