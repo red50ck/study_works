@@ -1,7 +1,7 @@
 # study_works
 Assignments from the university. / Лабораторные работы из ВУЗа.
 
-EN: Content:  
+<b>EN</b>: Content:  
 Algorithms and data structures.  
 • [LW1](https://github.com/red50ck/study_works/blob/a48569e60221e1a19ccb41edf5ff794745976346/Algorithms%20and%20data%20structures/LW1/task1.md) - laboratory assignment №1. Sorts. Determination of algorithm complexity. 
 Task: write a program for sorting and analyzing text data.  
@@ -20,7 +20,7 @@ Task: to implement a data structure that efficiently handles queries of the type
 • [LW8](https://github.com/red50ck/study_works/blob/83cbd7f17eff4f89afe415734c15d5353f73c12f/Algorithms%20and%20data%20structures/LW8/task8.md) - laboratory assignment №8. Binary tree traversal.  
 Task: to construct in-order, pre-order and post-order traversals of a given binary tree.
 
-RU: Содержание:  
+<b>RU:</b> Содержание:  
 Algorithms and data structures - алгоритмы и структуры данных.  
 • [LW1](https://github.com/red50ck/study_works/blob/a48569e60221e1a19ccb41edf5ff794745976346/Algorithms%20and%20data%20structures/LW1/task1.md) - лабораторная работа №1. Сортировки. Определение сложности алгоритма. 
 Задача: написать программу для сортировки и анализа текстовых данных.  
