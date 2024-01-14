@@ -1,8 +1,8 @@
-EN: Implement a simple phonebook that supports the following three types of queries:  
-- add number name: add an entry with name and phone number number. If an entry with this phone number already exists, 
+EN: Implement a simple phonebook that supports the following three types of queries:
+• add number name: add an entry with name and phone number number. If an entry with this phone number already exists, 
 replace the name with name.  
-- del number: delete an entry with the corresponding phone number. If there is no such record, do nothing.  
-- find number: find the name of the record with the phone number number. If there is an entry with such a number, print the name. Otherwise
+• del number: delete an entry with the corresponding phone number. If there is no such record, do nothing.  
+• find number: find the name of the record with the phone number number. If there is an entry with such a number, print the name. Otherwise
 output "not found" (without quotes).  
 Input format. The first line contains the number of requests n. Each of the next n lines specifies a query in one of the three formats
 described above.  
