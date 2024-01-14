@@ -1,4 +1,4 @@
-EN: Implement a simple phonebook that supports the following three types of queries:
+EN: Implement a simple phonebook that supports the following three types of queries:  
 • add number name: add an entry with name and phone number number. If an entry with this phone number already exists, 
 replace the name with name.  
 • del number: delete an entry with the corresponding phone number. If there is no such record, do nothing.  
